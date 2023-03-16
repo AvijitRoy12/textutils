@@ -1,6 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
+//NavBar components created
 export default function NavBar(props) {
   return (
     <>
